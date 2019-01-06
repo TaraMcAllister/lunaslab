@@ -1,2 +1,6 @@
-# lunaslab
-Educational website designed to help teach KS2 pupils about the elements through the key skill of maths
+#IXD301 The Elements Project
+======================================
+
+Luna's Lab
+----------------
+- [Home](https://taramcallister.github.io/lunaslab/index.html)
